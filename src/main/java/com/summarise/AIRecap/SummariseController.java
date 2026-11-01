@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/api/summarise")
 @CrossOrigin(origins = {
         "http://localhost:5173",
-        "https://incognito-campus-frontend.vercel.app"
+        "https://incognito-frontend-xjjo.vercel.app"
 })
 @AllArgsConstructor
 public class SummariseController {
